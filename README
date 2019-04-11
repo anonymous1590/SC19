@@ -1,0 +1,3 @@
+This repository contains the source files for the time-consuming routines of all applications. They contain important code changes such as software prefetching in SNAP, blocking in miniGhost, and vectorization directives for others.
+
+This also contains the list of counters used to collect the needed data to generate roofline plots.
